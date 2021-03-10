@@ -1,0 +1,3 @@
+Add-Content $profile -Value ""
+Add-Content $profile -Value "Start-Process calc.exe"
+powershell -Command exit
